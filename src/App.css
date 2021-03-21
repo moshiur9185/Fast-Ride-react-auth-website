@@ -1,0 +1,13 @@
+.main-container {
+  /* background-image: url(https://image.shutterstock.com/image-vector/seamless-cityscape-cartoon-background-cars-260nw-544608196.jpg);
+  position: cover; 
+  background-repeat: no-repeat;
+  background-size: 300vh 90vh; */
+  height: 90vh;
+}
+
+@media screen and (max-width: 740px) {
+  .main-container {
+    height: 300vh;
+  }
+}

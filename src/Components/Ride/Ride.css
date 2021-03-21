@@ -1,0 +1,10 @@
+.cartVehicle:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+.cartVehicle img {
+  max-width: 100%;
+  margin: 20px;
+  height: 225px;
+  display: block;
+}
