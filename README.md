@@ -1,17 +1,9 @@
-                MD Moshiur Rahman
-             Project Name : Fast Ride
-
-     ######## #### ########  ######## ########     ###     ######  ########
-     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
-     ######    ##  ########  ######   ########  #########  ######  ######
-     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
-     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+###                MD Moshiur Rahman
+##             Project Name : Fast Ride
 
 (Live Link: https://first-ride-a9.web.app/)
 
-1.React Router && Private Route 2. React Bootstrap
-3.FontAwesome
-4.Mobile version responsive
-5.Firebase auth
-6.Google Maps
-7.Material-ui etc.
+Feature: Responsive for mobile and Desktop, Authentication with firebase Google Map, Select Destination etc.
+
+TECHNOLOGYS: Used React Framework, React Router, React hooks, Firebase Auth, JavaScript Language, github etc.
+
